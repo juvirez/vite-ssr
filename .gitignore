@@ -1,9 +1,0 @@
-node_modules
-.DS_Store
-.idea
-dist
-dist-ssr
-*.local
-_*
-
-**/worker/*
